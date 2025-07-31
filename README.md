@@ -8,7 +8,7 @@ PU belt driven four wheel drive, using only two motors to save weight\
 Integrated full-width front wedge with full wheel guards for a robust defence\
 19mm O-ring wheels with hub-integrated pulleys for a simple, lightweight, and reliable design\
 \
-Mechanical Parts:
+Mechanical Parts:\
 Black PLA\
 M2.5 3mm shaft shoulder bolts * 3\
 M2 * 10mm screws * 5\
@@ -22,6 +22,7 @@ Malenki nano receiver with integrated dual ESC * 1\
 220mAH 7.4v battery pack * 1(I made 2 from drone batteries with friend Ryan)\
 LED safety light * 1\
 Safety switch * 1\
+22AWG wires\
 \
 Robot weight: 120g
 
