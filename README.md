@@ -29,5 +29,7 @@ Robot weight: 120g
 
 
 <img width="1919" height="1144" alt="Screenshot 2025-07-27 141659" src="https://github.com/user-attachments/assets/f60f0ef4-293d-44f1-b576-55d56c48e2e9" />
-![BRICKBOT](https://github.com/user-attachments/assets/c76c6252-78d9-4975-9f5b-01f0d7d6a4fb)
-![Brick;s Internals](https://github.com/user-attachments/assets/aa0cd64a-8ad6-4fc3-90c5-14dd33e5f768)
+
+![BRICKBOT](https://github.com/user-attachments/assets/0db5f185-745e-4744-b2f1-02a7809f9638)
+
+![Brick;s Internals](https://github.com/user-attachments/assets/f79b4ecc-acfb-4a32-b6b7-d04e8f527993)
