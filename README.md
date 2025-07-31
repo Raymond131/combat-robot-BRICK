@@ -1,5 +1,7 @@
 # combat-robot-BRICK
 My robot entry into the UWaterloo first season WATBOTS 150g combat robot tournament, designed using Fusion 360. \
+Rank: 3rd place overall\
+(But I beat both 1st and 2nd in post-game friendly matches :>)\
 \
 Features:\
 Single-fork lifter arm driven by a servo with parallelogram linkage\
