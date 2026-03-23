@@ -41,7 +41,7 @@ Brick in 2025:\
 Brick in 2026:\
 ![IMG_2139](https://github.com/user-attachments/assets/6a500326-23a2-4fb9-b275-3f815c9e5e97)
 
-[2026 Final Match](https://www.youtube.com/watch?v=1Qm68Thxi-w&list=PLXXFjiXkpgPK8gJulJ7GFmjRKi-1SGBFE&index=2)
+2026 Final Match: \
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/1Qm68Thxi-w/0.jpg)](https://www.youtube.com/watch?v=1Qm68Thxi-w)
+[![Video Thumbnail](https://img.youtube.com/vi/1Qm68Thxi-w/0.jpg)](https://www.youtube.com/watch?v=1Qm68Thxi-w&list=PLXXFjiXkpgPK8gJulJ7GFmjRKi-1SGBFE&index=2)
 
